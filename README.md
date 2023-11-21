@@ -1,4 +1,6 @@
-### 👋 Hey there! I'm Matthew
+# 👋 Hey there!
+
+My name is Mateusz Zabój and I'm a Software Engineer. 
 
 <!--
 **mateuszzaboj/mateuszzaboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
